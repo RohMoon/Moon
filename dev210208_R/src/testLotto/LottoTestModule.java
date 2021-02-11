@@ -23,7 +23,7 @@ public class LottoTestModule {
 				
 					lottoNum[i] = ranNum;
 				
-		
+		/*aa*/
 			
 		
 	}
