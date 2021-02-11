@@ -23,7 +23,7 @@ public class Quiz1 {
 //주의사항 : 리턴타입이 있고 없고는 영향을 주지 않는다.
 	private void methodA(int x) { //private로 하면 내안에서만 사용가능하다. 외부에 클래스에서는 접급이 불가하다. 호출이 안된다. 재사용불가.
 		System.out.println("methodA호출 성공");
-		
+		/* src init test 20210211*/
 	}
 	//파라미터 x에는 누가 값을 정해주는 걸까요? 값은 q.methodA(1)과 같이 괄호안에 정수를 넣을 때 결정되는 것 같습니다.
 	//언제 결정되는 걸까요?? 호출할 때
